@@ -5,13 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="526ff583-b018-4366-9216-d2c4a79c18f2" name="Changes" comment="Actualizacion">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/TiendaElectronica/Cliente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/TiendaElectronica/Pedido.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/TiendaElectronica/Producto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/TiendaElectronica/RealizarPedido.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/TiendaElectronica/Tienda.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/build.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,6 +40,14 @@
       <option name="presentableId" value="Default" />
       <updated>1679269879108</updated>
     </task>
+    <task id="LOCAL-00001" summary="Actualizacion">
+      <created>1679275500298</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1679275500298</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
